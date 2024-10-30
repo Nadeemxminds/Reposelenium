@@ -25,6 +25,7 @@ public class SwitchVowelExample{
 			break;
 			default:System.out.println("Consonant");
 		}
-	sc.close();		
+	sc.close();	
+	System.err.println("test user");
 	}
 }
